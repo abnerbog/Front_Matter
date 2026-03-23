@@ -2,15 +2,9 @@
 title: Hydroinformatics
 subtitle: A free, open source guide to common hydrology data analyses
 date: 2025-01-16
+authors:
+  - id: jpgannon
 github: https://github.com/VT-Hydroinformatics/Front_Matter
-edit_url: https://github.com/VT-Hydroinformatics/Front_Matter/edit/main/foreward.md
-author:
-  - name: JP Gannon
-    orcid: 0000-0002-4595-3214
-    url: https://jpgannon.github.io/
-    affiliation: 
-      - name: Virginia Tech
-        url: https://www.vt.edu/
 ---
 
 # Introduction
