@@ -30,7 +30,9 @@ downloads:
 
 # Introduction
 
-### To help me keep get an idea of who is using this resource so I can improve it in the future, please consider filling out any or all of this survey: <https://forms.gle/6Zcntzvr1wZZUh6S7> Thanks!
+**To help me keep get an idea of who is using this resource so I can
+improve it in the future, please consider filling out any or all of this
+survey: <https://forms.gle/6Zcntzvr1wZZUh6S7> Thanks!**
 
 This bookdown contains the notes and most exercises for a course on data
 analysis techniques in hydrology using the programming language R. The
